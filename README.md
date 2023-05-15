@@ -1,4 +1,4 @@
-New change Merge Conflict
+New change Merge Conflicts
 # git-learning-repo
 In this repo we gona learn git
 
